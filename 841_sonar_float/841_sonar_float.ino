@@ -80,7 +80,6 @@ void setup() {
 
   // initialize serial communication:
   Serial.begin(9600);
-
   pinMode(lightRly, INPUT_PULLUP);
   pinMode(onBoardLed, OUTPUT);
   pinMode(pumpRly, OUTPUT);
