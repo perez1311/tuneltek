@@ -1,5 +1,5 @@
 /*
-   Code for nano with floating level switch and hc-sr04
+   Code for nano with no level sensor and hc-sr04
 */
 
 
